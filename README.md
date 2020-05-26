@@ -1,0 +1,2 @@
+# NewsDB
+NewsDB construction
